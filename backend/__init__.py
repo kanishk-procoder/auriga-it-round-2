@@ -1,0 +1,1 @@
+"""BrewRewards FastAPI backend."""
